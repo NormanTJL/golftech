@@ -83,9 +83,7 @@
                 <p class="h4">Range Tech Ball Dispensers can be equipped with more vending options than any other ball dispenser in the golf range business. All Range Tech Ball Machines are made of the strongest materials and carry the most comprehensive warranties available. </p>
                 <p align="center"><a href="../flattop"><img src="../../media/flattop.jpg" alt="Flat Top" style="width:35%;height:30%;"></a></p><h3><p align="center">Flat Top</p></h3>  
                 <p align="center"><a href="../conetop"><img src="../../media/conetop.jpg" alt="Cone Top" style="width:35%;height:30%;"></a></p><h3><p align="center">Cone Top</p></h3> 
-                <p align="center"><a href="../combi"><img src="../../media/combi.jpg" alt="Combi" style="width:35%;height:30%;"></a></p><h3><p align="center">Combi</p></h3> 
-                <p align="center"><a href="../rs"><img src="../../media/rsdispenser.jpg" alt="RS Ball Dispenser" style="width:35%;height:30%;"></a></p><h3><p align="center">RS Ball Dispenser</p></h3> 
-                <p align="center"><a href="../greenline"><img src="../../media/greenline.jpg" alt="Green Line" style="width:35%;height:30%;"></a></p><h3><p align="center">Green Line</p></h3> 
+                <p align="center"><a href="../combi"><img src="../../media/combi.jpg" alt="Combi" style="width:35%;height:30%;"></a></p><h3><p align="center">Combi</p></h3>                 
             </div>
         </div>
         <!-- /.row -->

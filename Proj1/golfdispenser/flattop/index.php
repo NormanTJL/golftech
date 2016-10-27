@@ -55,8 +55,6 @@
                     <li><a href="../flattop"><b>Flat Top</b></a></li>
                     <li><a href="../conetop"><b>Cone Top</b></a></li>
                     <li><a href="../combi"><b>Combi</b></a></li>
-                    <li><a href="../rs"><b>RS Ball Dispenser</b></a></li>
-                    <li><a href="../greenline"><b>Green Line</b></a></li>
                   </ul>
                 </li>
                 <li><a href="../../golfwasher"><b>Golf Ball Washers</b></a></li>
@@ -81,13 +79,53 @@
 
         <div class="row">
             <div class="col-lg-12 text-left">
-                <h2>Golf Ball Dispensers</h2>
-                <p class="h4">Range Tech Ball Dispensers can be equipped with more vending options than any other ball dispenser in the golf range business. All Range Tech Ball Machines are made of the strongest materials and carry the most comprehensive warranties available. </p>
-                <p align="center"><a href="../flattop"><img src="../../media/flattop.jpg" alt="Flat Top" style="width:35%;height:30%;"></a></p><h3><p align="center">Flat Top</p></h3>  
-                <p align="center"><a href="../conetop"><img src="../../media/conetop.jpg" alt="Cone Top" style="width:35%;height:30%;"></a></p><h3><p align="center">Cone Top</p></h3> 
-                <p align="center"><a href="../combi"><img src="../../media/combi.jpg" alt="Combi" style="width:35%;height:30%;"></a></p><h3><p align="center">Combi</p></h3> 
-                <p align="center"><a href="../rs"><img src="../../media/rsdispenser.jpg" alt="RS Ball Dispenser" style="width:35%;height:30%;"></a></p><h3><p align="center">RS Ball Dispenser</p></h3> 
-                <p align="center"><a href="../greenline"><img src="../../media/greenline.jpg" alt="Green Line" style="width:35%;height:30%;"></a></p><h3><p align="center">Green Line</p></h3> 
+            <img src="../../media/RangeTechFinal.jpg" align="center" alt="Range Tech" style="width:40%;height:10%;">
+            <p align="center"><a href="#"><img src="../../media/flattop.jpg" alt="Flat Top" style="width:35%;height:30%;"></a></p><h3><p align="center">Flat Top</p></h3>  
+
+                <h2><font color="#336633">Flat Top</font></h2>
+                <p class="h4">We count each and every ball as they leave the machine so we can dispense any ball count you need. Since our Golf Ball Dispensers have Smart Circuitryyour Small, Medium, and Large Buckets can be absolutely any size. The possibilities are infinite.
+<br><br>
+A Souped-Up version of a classic, the Ultima is the most flexible and reliable ball dispenser available. Flat Top Ball Dispenser provides today’s range owner with the best opportunity to sell more golf balls. Infinitely flexible, you can sell any size bucket. You can tailor your smalls, mediums, and larges to increase revenue and keep your customers coming back for more.
+<br><br>
+Because they are so quiet, they can be placed right on the tee-line. 
+<br><br>
+Range owners everywhere know the goal is to sell Large Buckets. The Range Servant Ultima is the first Golf Ball Dispenser that makes this easier. Since we can dispense any quantity of balls, your Smalls, Mediums and Larges can be any size. This allows the discerning Range Owner to Live Large</p>
+                            <ul>
+                                <li>
+                                    <p class="h5">Give more "bonus balls" so you can charge more for Large Buckets.</p>
+                                </li>
+                                <li>
+                                    <p class="h5">Make your "Large" irresistible by giving more balls without giving a bigger discount</p>
+                                </li>
+                                <li>
+                                    <p class="h5">Set the machine to make all of your buckets look full but make your large look the best</p>
+                                </li>
+                            </ul>
+                         <p class="h3"><b>Highlights</b></p>
+                            <ul class="h4">
+                                <li>Aluminium, Stainless, Galvanized</li>
+                                <li>Rust proof - 1 year warranty</li>
+                                <li>Quietest Machine on the market</li>
+                                <br>
+                                <li>Smart Circutry for maximum flexibility</li>
+                                <br>
+                                <li>Photo-sensor counts each ball</li>
+                                <li>Tokens and Range cards</li>
+                            </ul>          
+                            <p class="h3"><b>Product Specification</b></p>
+                                <ul class="h4">
+                                    <li><p class="h5">Capacity 8 000 balls <br>Measurement 1012x760x1330mm</p></li>
+                                    <li><p class="h5">Capacity 16 000 balls<br>Measurement 1012x1520x1330mm</p></li>
+                                </ul>              
+                         <p class="h3"><b>Other</b></p>
+                         <p class="h4"><b>The Ultimate Advantage</b></p>
+                         <p class="h5">Range owners everywhere know the goal is to sell Large Buckets. The Range Servant Ultima is the first Golf Ball Dispenser that makes this easier. Since we can dispense any quantity of balls, your Smalls, Mediums and Larges can be any size. This allows the discerning Range Owner to Live Large</p>
+                         <ul class="h4">
+                                    <li><p class="h5">Give more "bonus balls" so you can charge more for Large Buckets.</p></li>
+                                    <li><p class="h5">Make your "Large" irresistible by giving more balls without giving a bigger discount</p></li>
+                                    <li><p class="h5">Set the machine to make all of your buckets look full but make your large look the best</p></li>
+                        </ul>     
+
             </div>
         </div>
         <!-- /.row -->
@@ -107,12 +145,12 @@
             function() {
                 $('.dropdown-menu', this).stop( true, true ).fadeIn("fast");
                 $(this).toggleClass('open');
-                $('b', this).toggleClass("caret caret-up");                
+             //   $('b', this).toggleClass("caret caret-up");                
             },
             function() {
                 $('.dropdown-menu', this).stop( true, true ).fadeOut("fast");
                 $(this).toggleClass('open');
-                $('b', this).toggleClass("caret caret-up");                
+              //  $('b', this).toggleClass("caret caret-up");                
             });
     });
     

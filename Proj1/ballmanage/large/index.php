@@ -80,11 +80,21 @@
         <div class="row">
             <div class="col-lg-12 text-left">
                 <img src="../../media/RangeTechFinal.jpg" align="center" alt="Range Tech" style="width:40%;height:10%;">
-                <img src="../../media/lbms.jpg" align="right" alt="Large Ball Manangement System" style="width:35%;height:30%;">
+                <img src="../../media/lbms.jpg" align="right" alt="Large Ball Manangement System" style="width:50%;height:30%;">
              <h2><font color="#336633">Large Ball Management Systems</font></h2>
                 <p class="h4">To ensure the highest performance and reliability of our ball management systems, we work according to our project model, which runs through our entire working process from quotation, design, production to the completed installation. Each project step has to pass through a grid criteria and be approved prior to proceeding to the next step in the project. Using this method we ensure that our customers are involved in each step and receives a system that fulfills their requirements.</p>
-                <p class="h4">Our relationship with the customer do not end at the point of installation, though. A one year warranty check up is included with all our systems together with a one year contract to our suppoart line.</p>
-                <img src="../../media/smallbms2.jpg" align="center" alt="Small Ball Manangement System" style="width:100%;height:30%;">
+                <p class="h4">Our relationship with the customer do not end at the point of installation, though. A one year warranty check up is included with all our systems together with a one year contract to our support line.</p>
+                
+                <figure>
+                  <img src="../../media/largeball.jpg" alt="Large Ball Manangement System" style="width:100%;height:30%;">
+                  <figcaption align="center" > <p class="h4"><b>Fig. 1 </b>  <br>A Typical System For Washing Ditch/ Ball Shooter Transportaion/ To 4 Dispensers</p></figcaption>
+                </figure>
+               <br>
+               <br>
+                <figure>
+                  <img src="../../media/largeball2.jpg" alt="Large Ball Manangement System" style="width:100%;height:30%;">
+                  <figcaption align="center"> <p class="h4"><b>Fig. 2</b><br>A Typical Layout for Conveyor Belt Transportation</p></figcaption>
+                </figure>
             </div>
         </div>
         <!-- /.row -->

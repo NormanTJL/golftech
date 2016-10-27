@@ -55,8 +55,7 @@
                     <li><a href="../golfdispenser/flattop"><b>Flat Top</b></a></li>
                     <li><a href="../golfdispenser/conetop"><b>Cone Top</b></a></li>
                     <li><a href="../golfdispenser/combi"><b>Combi</b></a></li>
-                    <li><a href="../golfdispenser/rs"><b>RS Ball Dispenser</b></a></li>
-                    <li><a href="../golfdispenser/greenline"><b>Green Line</b></a></li>
+
                   </ul>
                 </li>
                 <li><a href="../golfwasher"><b>Golf Ball Washers</b></a></li>

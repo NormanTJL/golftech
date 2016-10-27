@@ -82,12 +82,12 @@
             <img src="../media/RangeTechFinal.jpg" align="center" alt="Range Tech" style="width:40%;height:10%;">
             <img src="../media/rt24k.jpg" alt="RT24K" align="right" style="width:30%;height:20%;">
                 <h2><font color="#336633"><b>Golf Ball Washer RT24K</b></font></h2>
-                <p class="h4">Range Tech 24k *moretext*</p> 
+                <p class="h4">Range Tech 24K is capable of washing several balls in bulk. We cater for all types of clients including professional Golfers, Golf course owners and people who play Golf as a hobby.<br>Whether you require washing a handful of range balls or need a Golf Ball Waser that can clean thousands of balls in bulk, we have you covered. Range Tech understands the need of having a convenient mechanism for keeping Range Balls clean, without using harsh chemicals.</p> 
                 <p class="h3"><b>No Harsh Solvent or Cleaners Required</b></p>
                 <p class="h4">Using corrosive substances for washing range balls can result in reducing their life. Now imagine using such a substance for washing thousands of range balls! Such a practice can easily result in loss worth thousands of dollars within a short period of time. On the contrary, using Range Tech Golf Ball Washers can enable you to not only clean range balls more efficiently but also ensure a longer life for them. </p>
                 
                 <p class="h3"><b>RT24K</b></p>
-                <p class="h4">RT24K are the toughest around. Only BT Golf Ball Washers are made of heavy-gauge Galvanized Steel and are built to take the abuse at today’s busy golf courses and driving ranges.</p><img src="../media/rt24k2.jpg" alt="RT24K" align="right" style="width:30%;height:20%;">
+                <p class="h4">RT24K are the toughest around. Only BT Golf Ball Washers are made of heavy-gauge Galvanized Steel and are built to take the abuse at today’s busy golf courses and driving ranges.</p><!--<img src="../media/rt24k2.jpg" alt="RT24K" align="right" style="width:30%;height:20%;">-->
                 <ul class="h4">
                     <li>24,000 Balls per hour</li>
                     <li>1/2 Horsepower Direct Drive Motor</li>

@@ -55,8 +55,7 @@
                     <li><a href="../golfdispenser/flattop"><b>Flat Top</b></a></li>
                     <li><a href="../golfdispenser/conetop"><b>Cone Top</b></a></li>
                     <li><a href="../golfdispenser/combi"><b>Combi</b></a></li>
-                    <li><a href="../golfdispenser/rs"><b>RS Ball Dispenser</b></a></li>
-                    <li><a href="../golfdispenser/greenline"><b>Green Line</b></a></li>
+
                   </ul>
                 </li>
                 <li><a href="../golfwasher"><b>Golf Ball Washers</b></a></li>
@@ -81,11 +80,14 @@
 
         <div class="row">
             <div class="col-lg-12 text-left">
-                <h2><font color="#336633">Ball Management Systems</font></h2>
-                <p class="h4">With our Ball Management System concept, every range operator is able to develop a cost efficient and easy-to-operate driving range. Through automation of the driving range and through sophisticated IT-Solutions a Ball Management System releases both time and resources to improve core business and customer relations.
-
-Comprehending the specific requirements for designing and operating a golf range, we are able to customize our Ball Management System to suit both the small country club and the large commercial range. We provide solutions that improve your range operations today and prepare you for the future. We have developed four technologies to help create an efficient Ball Management System for your range:</p>
-                <img src="../media/lbms.jpg" alt="Large Ball Manangement System" align="centre" style="width:60%;height:40%;">
+            <img src="../media/RangeTechFinal.jpg" align="center" alt="Range Tech" style="width:40%;height:10%;">
+                <h1><font color="#336633"><b>Blower/Shooter System</b></font></h1><img src="../media/blower1.jpg" alt="Blower / Shooter System" align="right" style="width:20%;height:20%;">
+                <p class="h4">ABLE TO LEAP tall buildings in single bound, THE RS-Blower, the newest addition to RS transport balls from even the most remote locations. With almost limitless flexibility the RS-Blower can quickly and reliably fill one or several Ball Dispenser or Automatic Tee-Up System. As with all Range Tech Ball Management Systems this can be done at the push of a button or automatically. Designed to minimize labor and isolate the ball washing area the RS-Blower makes for an efficient, clean, and safe range.</p><br><br><br><br>
+               
+                <h2><font color="#336633"><b>Blower/Shooter System</b></font></h2><img src="../media/blower2.jpg" alt="Blower / Shooter System" align="right" style="width:20%;height:20%;">
+                <p class="h4">A blower system makes it possible to feed balls to dispensers in the center of the tee-line from a remote washing area or as a ball distributor feeding balls to multiple dispensers from a central storage area. Using a blower system allows safe and easy access for the range staff and enables easier design of the range area.</p>
+                <p class="h4">The blower system uses compressed air to move the balls in flexible hoses, and can be installed both at single and multi-storey ranges</p>
+                <img src="../media/blower3.jpg" alt="Blower / Shooter System" align="centre" style="width:70%;height:20%;">
             </div>
         </div>
         <!-- /.row -->

@@ -88,6 +88,9 @@
                  <img src="../../media/smallballmanagement1.jpg" align="center" alt="Small Ball Manangement System" style="width:33%;height:30%;">
                  <img src="../../media/smallballmanagement2.jpg" align="center" alt="Small Ball Manangement System" style="width:33%;height:30%;">
                  <img src="../../media/smallballmanagement3.jpg" align="center" alt="Small Ball Manangement System" style="width:33%;height:30%;">
+                 <img src="../../media/smallball1.jpg" align="center" alt="Small Ball Manangement System" style="width:33%;height:30%;">
+                 <img src="../../media/smallball2.jpg" align="center" alt="Small Ball Manangement System" style="width:33%;height:30%;">
+                 <img src="../../media/smallball3.jpg" align="center" alt="Small Ball Manangement System" style="width:33%;height:30%;">
             </div>
         </div>
         <!-- /.row -->
