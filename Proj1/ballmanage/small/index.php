@@ -50,7 +50,7 @@
                 </li>
                <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown"><b>Golf Ball Dispensers</b></a>
                     <ul class="dropdown-menu">
-                    <li><a href=".."><b>Golf Ball Dispensers</b></a></li>
+                    <li><a href="../../golfdispenser/"><b>Golf Ball Dispensers</b></a></li>
                     <li><a href="../../golfdispenser/flattop"><b>Flat Top</b></a></li>
                     <li><a href="../../golfdispenser/conetop"><b>Cone Top</b></a></li>
                     <li><a href="../../golfdispenser/combi"><b>Combi</b></a></li>
@@ -95,7 +95,13 @@
             <div class="col-lg-12 text-left">
                 <img src="../../media/RangeTechFinal.jpg" align="center" alt="Range Tech" style="width:60%;height:10%;">
                 <br><br><br>
-               <img src="../../media/bms1.jpg" align="right" alt="Small Ball Manangement System" style="width:35%;height:25%;">
+                <table align="center">
+                <tr width="100%">
+                <td align="center">
+                    <img src="../../media/bms1.jpg" align="center" alt="Small Ball Manangement System" style="width:100%;height:100%;">
+               </td>
+               </tr>
+               </table>
              <h2><font color="#336633">Small Ball Management Systems</font></h2>
                 <p class="h4">To ensure the highest performance and reliability of our ball management systems, we work according to our project model, which runs through our entire working process from quotation, design, production to the completed installation. Each project step has to pass through a grid criteria and be approved prior to proceeding to the next step in the project. Using this method we ensure that our customers are involved in each step and receives a system that fulfills their requirements.</p>
                 <p class="h4">Our relationship with the customer do not end at the point of installation, though. A one year warranty check up is included with all our systems together with a one year contract to our suppoart line.</p>

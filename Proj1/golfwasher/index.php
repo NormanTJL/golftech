@@ -94,8 +94,14 @@
         <div class="row">
             <div class="col-lg-12 text-left">
             <img src="../media/RangeTechFinal.jpg" align="center" alt="Range Tech" style="width:60%;height:10%;">
-            <br><br><br>
-            <img src="../media/rt24k.jpg" alt="RT24K" align="center" style="width:50%;height:20%;">
+            <br><br>
+            <table align="center">
+            <tr>
+            <td>
+            <img src="../media/rt24k.jpg" alt="RT24K" align="center" style="width:100%;height:100%;">
+            </td>
+            </tr>
+            </table>
                 <h2><font color="#336633"><b>Golf Ball Washer RT24K</b></font></h2>
                 <p class="h4">Range Tech 24K is capable of washing several balls in bulk. We cater for all types of clients including professional Golfers, Golf course owners and people who play Golf as a hobby.<br>Whether you require washing a handful of range balls or need a Golf Ball Waser that can clean thousands of balls in bulk, we have you covered. Range Tech understands the need of having a convenient mechanism for keeping Range Balls clean, without using harsh chemicals.</p> 
                 <p class="h3"><b>No Harsh Solvent or Cleaners Required</b></p>

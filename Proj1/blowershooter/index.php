@@ -97,10 +97,10 @@
             <br><br><br>
                 <h1><font color="#336633"><b>Blower/Shooter System</b></font></h1>
                 <p class="h4">ABLE TO LEAP tall buildings in single bound, THE RS-Blower, the newest addition to RS transport balls from even the most remote locations. With almost limitless flexibility the RS-Blower can quickly and reliably fill one or several Ball Dispenser or Automatic Tee-Up System. As with all Range Tech Ball Management Systems this can be done at the push of a button or automatically. Designed to minimize labor and isolate the ball washing area the RS-Blower makes for an efficient, clean, and safe range.</p><br><br><br><br>
-               <img src="../media/blower1.jpg" alt="Blower / Shooter System" align="center" style="width:50%;height:20%;">
+               <table align="center"><tr><td><img src="../media/blower1.jpg" alt="Blower / Shooter System" align="center" style="width:100%;height:100%;"></td></tr></table>
                 <h2><font color="#336633"><b>Blower/Shooter System</b></font></h2><p class="h4">A blower system makes it possible to feed balls to dispensers in the center of the tee-line from a remote washing area or as a ball distributor feeding balls to multiple dispensers from a central storage area. Using a blower system allows safe and easy access for the range staff and enables easier design of the range area.</p>
                 <p class="h4">The blower system uses compressed air to move the balls in flexible hoses, and can be installed both at single and multi-storey ranges</p>
-                <img src="../media/blower3.jpg" alt="Blower / Shooter System" align="centre" style="width:70%;height:20%;">
+                <table align="center"><tr><td><img src="../media/blower3.jpg" alt="Blower / Shooter System" align="centre" style="width:80%;height:50%;"></td></tr></table>
             </div>
         </div>
         <!-- /.row -->

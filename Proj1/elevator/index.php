@@ -95,7 +95,11 @@
             <div class="col-lg-12 text-left">
             <img src="../media/RangeTechFinal.jpg" align="center" alt="Range Tech" style="width:60%;height:10%;">
             <br><br><br>
-            <img src="../media/elevator.jpg" alt="Range Ball Elevator" align="center" style="width:5    0%;height:20%;">
+            <table align="center">
+            <tr>
+            <td><img src="../media/elevator.jpg" alt="Range Ball Elevator" align="center" style="width:100%;height:60%;"></td>
+            </tr>
+            </table>
                 <h2><font color="#336633"><b>Range Ball Elevators</b></font></h2>
                 <p class="h4">Range Tech Range Ball Elevators are the quickest way to reduce labor, streamline ball handling, and clean up your Ball Wash Area. Easily activated with the push of a button, it eliminates the back breaking lifting and loading prevalent at a busy range. Equipped with smart controls and a secondary power supply, it can work in tandem with any ball washer. Turn on the elevator and the ball washer comes on as well. Leaving nothing to chance, a photo-sensor shuts the elevator and washer down when the Ball Machine you are filling is full.</p>
 
