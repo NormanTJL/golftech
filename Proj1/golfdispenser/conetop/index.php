@@ -38,10 +38,9 @@
         <div class="container">
         <table>
             <tr>
-                <td width="15%"><a href="../../ballmanage"><img src="../../media/RangeTechFinal.jpg" alt="Range Tech" style="width:100%;height:10%;"></a></td>
                 <td>
                      <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-              <ul class="nav navbar-nav">
+               <ul class="nav navbar-nav">
               <li class="dropdown">
                   <a href="#" class="dropdown-toggle" data-toggle="dropdown"><b>Ball Management</b></a>
                   <ul class="dropdown-menu">
@@ -49,7 +48,7 @@
                     <li><a href="../../ballmanage/small"><b>Small Ball Management System</b></a></li>
                   </ul>
                 </li>
-               <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown"><b>Dispensers</b></a>
+               <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown"><b>Golf Ball Dispensers</b></a>
                     <ul class="dropdown-menu">
                     <li><a href=".."><b>Golf Ball Dispensers</b></a></li>
                     <li><a href="../flattop"><b>Flat Top</b></a></li>
@@ -57,11 +56,26 @@
                     <li><a href="../combi"><b>Combi</b></a></li>
                   </ul>
                 </li>
-                <li><a href="../../golfwasher"><b>Golf Ball Washers</b></a></li>
-                <li><a href="../../elevator"><b>Range Ball Elevators</b></a></li>
-                <li><a href="../../blowershooter"><b>Range Ball Blower/Shooter</b></a></li>
-                <li><a href="../../management"><b>Payment/Management System</b></a></li>
-                
+                <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown"><b>Golf Ball Washers</b></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="../../golfwasher"><b>RT24K</b></a></li>
+                    </ul>
+                </li>
+                <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown"><b>Range Ball Elevators</b></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="../../elevator"><b>Range Ball Elevators</b></a></li>
+                    </ul>
+                </li>
+                <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown"><b>Range Ball Blower/Shooters</b></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="../../blowershooter"><b>Range Ball Blower/Shooter</b></a></li>
+                    </ul>
+                </li>
+                <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown"><b>Payment/Management Systems</b></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="../../management"><b>Range Ball Elevators</b></a></li>
+                    </ul>
+                </li>
               </ul>
             </div>
                 </td>
@@ -79,53 +93,11 @@
 
         <div class="row">
             <div class="col-lg-12 text-left">
-            <img src="../../media/RangeTechFinal.jpg" align="center" alt="Range Tech" style="width:40%;height:10%;">
-            <p align="center"><a href="#"><img src="../../media/flattop.jpg" alt="Flat Top" style="width:35%;height:30%;"></a></p><h3><p align="center">Flat Top</p></h3>  
-
-                <h2><font color="#336633">Flat Top</font></h2>
-                <p class="h4">We count each and every ball as they leave the machine so we can dispense any ball count you need. Since our Golf Ball Dispensers have Smart Circuitryyour Small, Medium, and Large Buckets can be absolutely any size. The possibilities are infinite.
-<br><br>
-A Souped-Up version of a classic, the Ultima is the most flexible and reliable ball dispenser available. Flat Top Ball Dispenser provides today’s range owner with the best opportunity to sell more golf balls. Infinitely flexible, you can sell any size bucket. You can tailor your smalls, mediums, and larges to increase revenue and keep your customers coming back for more.
-<br><br>
-Because they are so quiet, they can be placed right on the tee-line. 
-<br><br>
-Range owners everywhere know the goal is to sell Large Buckets. The Range Servant Ultima is the first Golf Ball Dispenser that makes this easier. Since we can dispense any quantity of balls, your Smalls, Mediums and Larges can be any size. This allows the discerning Range Owner to Live Large</p>
-                            <ul>
-                                <li>
-                                    <p class="h5">Give more "bonus balls" so you can charge more for Large Buckets.</p>
-                                </li>
-                                <li>
-                                    <p class="h5">Make your "Large" irresistible by giving more balls without giving a bigger discount</p>
-                                </li>
-                                <li>
-                                    <p class="h5">Set the machine to make all of your buckets look full but make your large look the best</p>
-                                </li>
-                            </ul>
-                         <p class="h3"><b>Highlights</b></p>
-                            <ul class="h4">
-                                <li>Aluminium, Stainless, Galvanized</li>
-                                <li>Rust proof - 1 year warranty</li>
-                                <li>Quietest Machine on the market</li>
-                                <br>
-                                <li>Smart Circutry for maximum flexibility</li>
-                                <br>
-                                <li>Photo-sensor counts each ball</li>
-                                <li>Tokens and Range cards</li>
-                            </ul>          
-                            <p class="h3"><b>Product Specification</b></p>
-                                <ul class="h4">
-                                    <li><p class="h5">Capacity 8 000 balls <br>Measurement 1012x760x1330mm</p></li>
-                                    <li><p class="h5">Capacity 16 000 balls<br>Measurement 1012x1520x1330mm</p></li>
-                                </ul>              
-                         <p class="h3"><b>Other</b></p>
-                         <p class="h4"><b>The Ultimate Advantage</b></p>
-                         <p class="h5">Range owners everywhere know the goal is to sell Large Buckets. The Range Servant Ultima is the first Golf Ball Dispenser that makes this easier. Since we can dispense any quantity of balls, your Smalls, Mediums and Larges can be any size. This allows the discerning Range Owner to Live Large</p>
-                         <ul class="h4">
-                                    <li><p class="h5">Give more "bonus balls" so you can charge more for Large Buckets.</p></li>
-                                    <li><p class="h5">Make your "Large" irresistible by giving more balls without giving a bigger discount</p></li>
-                                    <li><p class="h5">Set the machine to make all of your buckets look full but make your large look the best</p></li>
-                        </ul>     
-
+            <img src="../../media/RangeTechFinal.jpg" align="center" alt="Range Tech" style="width:60%;height:10%;">
+            <p align="center"><a href="#"><img src="../../media/conetop.jpg" alt="Flat Top" style="width:35%;height:30%;"></a></p><h3><p align="center">Cone Top</p></h3>  
+            <br><br><br>    
+                <h2><font color="#336633">Cone Top</font></h2>
+            
             </div>
         </div>
         <!-- /.row -->

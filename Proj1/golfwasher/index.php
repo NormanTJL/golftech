@@ -38,7 +38,6 @@
         <div class="container">
         <table>
             <tr>
-                <td width="15%"><a href="../ballmanage"><img src="../media/RangeTechFinal.jpg" alt="Range Tech" style="width:100%;height:10%;"></a></td>
                 <td>
                      <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
               <ul class="nav navbar-nav">
@@ -49,19 +48,34 @@
                     <li><a href="../ballmanage/small"><b>Small Ball Management System</b></a></li>
                   </ul>
                 </li>
-               <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown"><b>Dispensers</b></a>
+               <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown"><b>Golf Ball Dispensers</b></a>
                     <ul class="dropdown-menu">
-                    <li><a href="../golfdispenser"><b>Golf Ball Dispensers</b></a></li>
+                    <li><a href=".."><b>Golf Ball Dispensers</b></a></li>
                     <li><a href="../golfdispenser/flattop"><b>Flat Top</b></a></li>
                     <li><a href="../golfdispenser/conetop"><b>Cone Top</b></a></li>
                     <li><a href="../golfdispenser/combi"><b>Combi</b></a></li>
                   </ul>
                 </li>
-                <li><a href="../golfwasher"><b>Golf Ball Washers</b></a></li>
-                <li><a href="../elevator"><b>Range Ball Elevators</b></a></li>
-                <li><a href="../blowershooter"><b>Range Ball Blower/Shooter</b></a></li>
-                <li><a href="../management"><b>Payment/Management System</b></a></li>
-                
+                <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown"><b>Golf Ball Washers</b></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="../golfwasher"><b>RT24K</b></a></li>
+                    </ul>
+                </li>
+                <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown"><b>Range Ball Elevators</b></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="../elevator"><b>Range Ball Elevators</b></a></li>
+                    </ul>
+                </li>
+                <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown"><b>Range Ball Blower/Shooters</b></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="../blowershooter"><b>Range Ball Blower/Shooter</b></a></li>
+                    </ul>
+                </li>
+                <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown"><b>Payment/Management Systems</b></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="../management"><b>Range Ball Elevators</b></a></li>
+                    </ul>
+                </li>
               </ul>
             </div>
                 </td>
@@ -79,8 +93,9 @@
 
         <div class="row">
             <div class="col-lg-12 text-left">
-            <img src="../media/RangeTechFinal.jpg" align="center" alt="Range Tech" style="width:40%;height:10%;">
-            <img src="../media/rt24k.jpg" alt="RT24K" align="right" style="width:30%;height:20%;">
+            <img src="../media/RangeTechFinal.jpg" align="center" alt="Range Tech" style="width:60%;height:10%;">
+            <br><br><br>
+            <img src="../media/rt24k.jpg" alt="RT24K" align="center" style="width:50%;height:20%;">
                 <h2><font color="#336633"><b>Golf Ball Washer RT24K</b></font></h2>
                 <p class="h4">Range Tech 24K is capable of washing several balls in bulk. We cater for all types of clients including professional Golfers, Golf course owners and people who play Golf as a hobby.<br>Whether you require washing a handful of range balls or need a Golf Ball Waser that can clean thousands of balls in bulk, we have you covered. Range Tech understands the need of having a convenient mechanism for keeping Range Balls clean, without using harsh chemicals.</p> 
                 <p class="h3"><b>No Harsh Solvent or Cleaners Required</b></p>

@@ -38,30 +38,44 @@
         <div class="container">
         <table>
             <tr>
-                <td width="15%"><a href="../../ballmanage"><img src="../../media/RangeTechFinal.jpg" alt="Range Tech" style="width:100%;height:10%;"></a></td>
                 <td>
                      <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
               <ul class="nav navbar-nav">
               <li class="dropdown">
                   <a href="#" class="dropdown-toggle" data-toggle="dropdown"><b>Ball Management</b></a>
                   <ul class="dropdown-menu">
-                     <li><a href="../large"><b>Large Ball Management System</b></a></li>
-                    <li><a href="../small"><b>Small Ball Management System</b></a></li>
+                    <li><a href="../../ballmanage/large"><b>Large Ball Management System</b></a></li>
+                    <li><a href="../../ballmanage/small"><b>Small Ball Management System</b></a></li>
                   </ul>
                 </li>
-               <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Dispensers<b class="caret"></b></a>
+               <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown"><b>Golf Ball Dispensers</b></a>
                     <ul class="dropdown-menu">
-                    <li><a href="../../golfdispenser"><b>Golf Ball Dispensers</b></a></li>
+                    <li><a href=".."><b>Golf Ball Dispensers</b></a></li>
                     <li><a href="../../golfdispenser/flattop"><b>Flat Top</b></a></li>
                     <li><a href="../../golfdispenser/conetop"><b>Cone Top</b></a></li>
                     <li><a href="../../golfdispenser/combi"><b>Combi</b></a></li>
                   </ul>
                 </li>
-                <li><a href="../../golfwasher"><b>Golf Ball Washers</b></a></li>
-                <li><a href="../../elevator"><b>Range Ball Elevators</b></a></li>
-                <li><a href="../../blowershooter"><b>Range Ball Blower/Shooter</b></a></li>
-                <li><a href="../../management"><b>Payment/Management System</b></a></li>
-                
+                <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown"><b>Golf Ball Washers</b></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="../../golfwasher"><b>RT24K</b></a></li>
+                    </ul>
+                </li>
+                <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown"><b>Range Ball Elevators</b></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="../../elevator"><b>Range Ball Elevators</b></a></li>
+                    </ul>
+                </li>
+                <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown"><b>Range Ball Blower/Shooters</b></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="../../blowershooter"><b>Range Ball Blower/Shooter</b></a></li>
+                    </ul>
+                </li>
+                <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown"><b>Payment/Management Systems</b></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="../../management"><b>Range Ball Elevators</b></a></li>
+                    </ul>
+                </li>
               </ul>
             </div>
                 </td>
@@ -79,15 +93,18 @@
 
         <div class="row">
             <div class="col-lg-12 text-left">
-                <img src="../../media/RangeTechFinal.jpg" align="center" alt="Range Tech" style="width:40%;height:10%;">
+                <img src="../../media/RangeTechFinal.jpg" align="center" alt="Range Tech" style="width:60%;height:10%;">
+                <br><br><br>
                <img src="../../media/bms1.jpg" align="right" alt="Small Ball Manangement System" style="width:35%;height:25%;">
              <h2><font color="#336633">Small Ball Management Systems</font></h2>
                 <p class="h4">To ensure the highest performance and reliability of our ball management systems, we work according to our project model, which runs through our entire working process from quotation, design, production to the completed installation. Each project step has to pass through a grid criteria and be approved prior to proceeding to the next step in the project. Using this method we ensure that our customers are involved in each step and receives a system that fulfills their requirements.</p>
                 <p class="h4">Our relationship with the customer do not end at the point of installation, though. A one year warranty check up is included with all our systems together with a one year contract to our suppoart line.</p>
                  <img src="../../media/smallbms2.jpg" align="center" alt="Small Ball Manangement System" style="width:100%;height:30%;">
+                 <br><br><br><br>
                  <img src="../../media/smallballmanagement1.jpg" align="center" alt="Small Ball Manangement System" style="width:33%;height:30%;">
                  <img src="../../media/smallballmanagement2.jpg" align="center" alt="Small Ball Manangement System" style="width:33%;height:30%;">
                  <img src="../../media/smallballmanagement3.jpg" align="center" alt="Small Ball Manangement System" style="width:33%;height:30%;">
+                 <br><br><br><br>
                  <img src="../../media/smallball1.jpg" align="center" alt="Small Ball Manangement System" style="width:33%;height:30%;">
                  <img src="../../media/smallball2.jpg" align="center" alt="Small Ball Manangement System" style="width:33%;height:30%;">
                  <img src="../../media/smallball3.jpg" align="center" alt="Small Ball Manangement System" style="width:33%;height:30%;">

@@ -38,7 +38,6 @@
         <div class="container">
         <table>
             <tr>
-                <td width="15%"><a href="../ballmanage"><img src="../media/RangeTechFinal.jpg" alt="Range Tech" style="width:100%;height:10%;"></a></td>
                 <td>
                      <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
               <ul class="nav navbar-nav">
@@ -49,19 +48,34 @@
                     <li><a href="../ballmanage/small"><b>Small Ball Management System</b></a></li>
                   </ul>
                 </li>
-               <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown"><b>Dispensers</b></a>
+               <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown"><b>Golf Ball Dispensers</b></a>
                     <ul class="dropdown-menu">
-                    <li><a href="../golfdispenser"><b>Golf Ball Dispensers</b></a></li>
+                    <li><a href=".."><b>Golf Ball Dispensers</b></a></li>
                     <li><a href="../golfdispenser/flattop"><b>Flat Top</b></a></li>
                     <li><a href="../golfdispenser/conetop"><b>Cone Top</b></a></li>
                     <li><a href="../golfdispenser/combi"><b>Combi</b></a></li>
                   </ul>
                 </li>
-                <li><a href="../golfwasher"><b>Golf Ball Washers</b></a></li>
-                <li><a href="../elevator"><b>Range Ball Elevators</b></a></li>
-                <li><a href="../blowershooter"><b>Range Ball Blower/Shooter</b></a></li>
-                <li><a href="../management"><b>Payment/Management System</b></a></li>
-                
+                <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown"><b>Golf Ball Washers</b></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="../golfwasher"><b>RT24K</b></a></li>
+                    </ul>
+                </li>
+                <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown"><b>Range Ball Elevators</b></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="../elevator"><b>Range Ball Elevators</b></a></li>
+                    </ul>
+                </li>
+                <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown"><b>Range Ball Blower/Shooters</b></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="../blowershooter"><b>Range Ball Blower/Shooter</b></a></li>
+                    </ul>
+                </li>
+                <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown"><b>Payment/Management Systems</b></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="../management"><b>Range Ball Elevators</b></a></li>
+                    </ul>
+                </li>
               </ul>
             </div>
                 </td>
@@ -79,6 +93,8 @@
 
         <div class="row">
             <div class="col-lg-12 text-left">
+                <img src="../media/RangeTechFinal.jpg" align="center" alt="Range Tech" style="width:60%;height:10%;">
+                <br><br><br>
                 <h2><font color="#336633">Ball Management Systems</font></h2>
                 <p class="h4">With our Ball Management System concept, every range operator is able to develop a cost efficient and easy-to-operate driving range. Through automation of the driving range and through sophisticated IT-Solutions a Ball Management System releases both time and resources to improve core business and customer relations.
 

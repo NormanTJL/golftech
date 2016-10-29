@@ -38,7 +38,6 @@
         <div class="container">
         <table>
             <tr>
-                <td width="15%"><a href="../ballmanage"><img src="../media/RangeTechFinal.jpg" alt="Range Tech" style="width:100%;height:10%;"></a></td>
                 <td>
                      <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
               <ul class="nav navbar-nav">
@@ -49,19 +48,34 @@
                     <li><a href="../ballmanage/small"><b>Small Ball Management System</b></a></li>
                   </ul>
                 </li>
-               <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown"><b>Dispensers</b></a>
+               <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown"><b>Golf Ball Dispensers</b></a>
                     <ul class="dropdown-menu">
-                    <li><a href="../golfdispenser"><b>Golf Ball Dispensers</b></a></li>
+                    <li><a href=".."><b>Golf Ball Dispensers</b></a></li>
                     <li><a href="../golfdispenser/flattop"><b>Flat Top</b></a></li>
                     <li><a href="../golfdispenser/conetop"><b>Cone Top</b></a></li>
                     <li><a href="../golfdispenser/combi"><b>Combi</b></a></li>
                   </ul>
                 </li>
-                <li><a href="../golfwasher"><b>Golf Ball Washers</b></a></li>
-                <li><a href="../elevator"><b>Range Ball Elevators</b></a></li>
-                <li><a href="../blowershooter"><b>Range Ball Blower/Shooter</b></a></li>
-                <li><a href="../management"><b>Payment/Management System</b></a></li>
-                
+                <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown"><b>Golf Ball Washers</b></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="../golfwasher"><b>RT24K</b></a></li>
+                    </ul>
+                </li>
+                <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown"><b>Range Ball Elevators</b></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="../elevator"><b>Range Ball Elevators</b></a></li>
+                    </ul>
+                </li>
+                <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown"><b>Range Ball Blower/Shooters</b></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="../blowershooter"><b>Range Ball Blower/Shooter</b></a></li>
+                    </ul>
+                </li>
+                <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown"><b>Payment/Management Systems</b></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="../management"><b>Range Ball Elevators</b></a></li>
+                    </ul>
+                </li>
               </ul>
             </div>
                 </td>
@@ -79,8 +93,10 @@
 
         <div class="row">
             <div class="col-lg-12 text-left">
-            <img src="../media/RangeTechFinal.jpg" align="center" alt="Range Tech" style="width:40%;height:10%;">
-                <h2><font color="#336633"><b>Range Ball Elevators</b></font></h2><img src="../media/elevator.jpg" alt="Range Ball Elevator" align="right" style="width:30%;height:20%;">
+            <img src="../media/RangeTechFinal.jpg" align="center" alt="Range Tech" style="width:60%;height:10%;">
+            <br><br><br>
+            <img src="../media/elevator.jpg" alt="Range Ball Elevator" align="center" style="width:5    0%;height:20%;">
+                <h2><font color="#336633"><b>Range Ball Elevators</b></font></h2>
                 <p class="h4">Range Tech Range Ball Elevators are the quickest way to reduce labor, streamline ball handling, and clean up your Ball Wash Area. Easily activated with the push of a button, it eliminates the back breaking lifting and loading prevalent at a busy range. Equipped with smart controls and a secondary power supply, it can work in tandem with any ball washer. Turn on the elevator and the ball washer comes on as well. Leaving nothing to chance, a photo-sensor shuts the elevator and washer down when the Ball Machine you are filling is full.</p>
 
 <p class="h4">Available in four standard lengths, as well as custom-built, Range Tech has an elevator for almost any application.</p>

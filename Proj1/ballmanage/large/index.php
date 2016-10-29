@@ -38,7 +38,6 @@
         <div class="container">
         <table>
             <tr>
-                <td width="15%"><a href="../../ballmanage"><img src="../../media/RangeTechFinal.jpg" alt="Range Tech" style="width:100%;height:10%;"></a></td>
                 <td>
                      <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
               <ul class="nav navbar-nav">
@@ -49,7 +48,7 @@
                     <li><a href="../small"><b>Small Ball Management System</b></a></li>
                   </ul>
                 </li>
-               <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Dispensers<b class="caret"></b></a>
+               <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown"><b>Dispensers</b></a>
                     <ul class="dropdown-menu">
                     <li><a href="../../golfdispenser"><b>Golf Ball Dispensers</b></a></li>
                     <li><a href="../../golfdispenser/flattop"><b>Flat Top</b></a></li>
@@ -79,7 +78,8 @@
 
         <div class="row">
             <div class="col-lg-12 text-left">
-                <img src="../../media/RangeTechFinal.jpg" align="center" alt="Range Tech" style="width:40%;height:10%;">
+                <img src="../../media/RangeTechFinal.jpg" align="center" alt="Range Tech" style="width:60%;height:10%;">
+                <br><br><br>
                 <img src="../../media/lbms.jpg" align="right" alt="Large Ball Manangement System" style="width:50%;height:30%;">
              <h2><font color="#336633">Large Ball Management Systems</font></h2>
                 <p class="h4">To ensure the highest performance and reliability of our ball management systems, we work according to our project model, which runs through our entire working process from quotation, design, production to the completed installation. Each project step has to pass through a grid criteria and be approved prior to proceeding to the next step in the project. Using this method we ensure that our customers are involved in each step and receives a system that fulfills their requirements.</p>
@@ -92,7 +92,7 @@
                <br>
                <br>
                 <figure>
-                  <img src="../../media/largeball2.jpg" alt="Large Ball Manangement System" style="width:100%;height:30%;">
+                  <img src="../../media/largeball2.jpg" align="center" alt="Large Ball Manangement System" style="width:40%;height:30%;">
                   <figcaption align="center"> <p class="h4"><b>Fig. 2</b><br>A Typical Layout for Conveyor Belt Transportation</p></figcaption>
                 </figure>
             </div>
