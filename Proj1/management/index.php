@@ -38,10 +38,9 @@
         <div class="container">
         <table>
             <tr>
-                <td width="15%"><a href="../ballmanage"><img src="../media/RangeTechFinal.jpg" alt="Range Tech" style="width:100%;height:10%;"></a></td>
                 <td>
                      <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-              <ul class="nav navbar-nav">
+               <ul class="nav navbar-nav">
               <li class="dropdown">
                   <a href="#" class="dropdown-toggle" data-toggle="dropdown"><b>Ball Management</b></a>
                   <ul class="dropdown-menu">
@@ -49,20 +48,34 @@
                     <li><a href="../ballmanage/small"><b>Small Ball Management System</b></a></li>
                   </ul>
                 </li>
-               <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown"><b>Dispensers</b></a>
+               <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown"><b>Golf Ball Dispensers</b></a>
                     <ul class="dropdown-menu">
-                    <li><a href="../golfdispenser"><b>Golf Ball Dispensers</b></a></li>
+                    <li><a href=".."><b>Golf Ball Dispensers</b></a></li>
                     <li><a href="../golfdispenser/flattop"><b>Flat Top</b></a></li>
                     <li><a href="../golfdispenser/conetop"><b>Cone Top</b></a></li>
                     <li><a href="../golfdispenser/combi"><b>Combi</b></a></li>
-
                   </ul>
                 </li>
-                <li><a href="../golfwasher"><b>Golf Ball Washers</b></a></li>
-                <li><a href="../elevator"><b>Range Ball Elevators</b></a></li>
-                <li><a href="../blowershooter"><b>Range Ball Blower/Shooter</b></a></li>
-                <li><a href="../management"><b>Payment/Management System</b></a></li>
-                
+                <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown"><b>Golf Ball Washers</b></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="../golfwasher"><b>RT24K</b></a></li>
+                    </ul>
+                </li>
+                <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown"><b>Range Ball Elevators</b></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="../elevator"><b>Range Ball Elevators</b></a></li>
+                    </ul>
+                </li>
+                <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown"><b>Range Ball Blower/Shooters</b></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="../blowershooter"><b>Range Ball Blower/Shooter</b></a></li>
+                    </ul>
+                </li>
+                <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown"><b>Payment Management Systems</b></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="../management"><b>Payment Management Systems</b></a></li>
+                    </ul>
+                </li>
               </ul>
             </div>
                 </td>
@@ -80,11 +93,34 @@
 
         <div class="row">
             <div class="col-lg-12 text-left">
-                <h2><font color="#336633">Ball Management Systems</font></h2>
-                <p class="h4">With our Ball Management System concept, every range operator is able to develop a cost efficient and easy-to-operate driving range. Through automation of the driving range and through sophisticated IT-Solutions a Ball Management System releases both time and resources to improve core business and customer relations.
+                <img src="../media/RangeTechFinal.jpg" align="center" alt="Range Tech" style="width:60%;height:10%;">   
+                <br><br><br>
+                <h2><font color="#336633">Range Tech Payment Management Systems</font></h2>
+                <p class="h3">For Range Tech Ball Dispenser</p>
+                <img src="../media/page1.jpg" align="center" alt="Page 1" style="width:100%;height:10%;">
+                <br><br><br>
+                <img src="../media/page2.jpg" align="center" alt="Page 2" style="width:100%;height:10%;">
+                <br><br><br>
+                <img src="../media/page3.jpg" align="center" alt="Page 3" style="width:100%;height:10%;">
 
-Comprehending the specific requirements for designing and operating a golf range, we are able to customize our Ball Management System to suit both the small country club and the large commercial range. We provide solutions that improve your range operations today and prepare you for the future. We have developed four technologies to help create an efficient Ball Management System for your range:</p>
-                <img src="../media/lbms.jpg" alt="Large Ball Manangement System" align="centre" style="width:60%;height:40%;">
+               <!-- <br><p class="h4"><b>S</b>ELECT CONTROL is an electronic control system that makes getting golf balls easier and increases revenue at the same time. Based on an electronic package mounted in the Ball Dispenser, Select Control allows you to sell several different amounts of balls depending on the payment method or the time of the day. <br> Select Control can function as a stand-alone unit or can be networked to a central computer. When on-line, Select allows for: </p>
+                <ul><li><p class="h4">On-line Payment System - Select uses a reliable read-only card system where all the vital information is stored in a personal account on the computer. Customer flexibility increases and cash handling in Ball Dispenser decreases</p></li>
+                    <li><p class="h4">Statistics: All sales are accounted for. Statistics can be broken down from hour of the day to month of the year and presented in easy to use tables and reports</p></li></ul>
+                <img src="../media/RangeTechManagement.jpeg" alt="Large Ball Manangement System" align="centre" style="width:60%;height:40%;">
+                <p class="h3">Select Stand Alone</p><p class="h4">Stand Alone is the foundation of the Select Control System. It features:</p>
+                <ul>
+                    <li>Setting of three price levels</li>
+                    <li>Up to four daily Happy Hour periods that allow you to vary ball amounts or price</li>
+                    <li>Statistical information about tokens, cash and dispensed balls.</li>
+                </ul>
+                UPGRADE PACKAGE:
+                <ul>
+                    <li>Electronic Coin Acceptor for up to six different tokens or coins</li>
+                    <li>Magnetic Card Reader</li>
+                    <li>Bill Acceptor</li>
+                    <li>Select Stand Alone Printer (in the machine) for convenient report/statistical print-outs</li>
+                </ul>
+            -->
             </div>
         </div>
         <!-- /.row -->
