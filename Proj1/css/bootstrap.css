@@ -6295,6 +6295,7 @@ button.close {
 }
 .carousel {
   position: relative;
+  width: 100%;
 }
 .carousel-inner {
   position: relative;
@@ -6311,6 +6312,8 @@ button.close {
 .carousel-inner > .item > img,
 .carousel-inner > .item > a > img {
   line-height: 1;
+  width: 80%;
+  height: 60%;
 }
 @media all and (transform-3d), (-webkit-transform-3d) {
   .carousel-inner > .item {
