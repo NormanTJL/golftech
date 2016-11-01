@@ -17,7 +17,7 @@
 
     <style>
     body {
-        padding-top: 70px;
+        padding-top: 0px;
         /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
     }
     </style>
@@ -32,68 +32,46 @@
 </head>
 
 <body>
-
+<!--<div id="menCollection" class="carousel slide" data-ride="carousel">
+                              <div class="carousel-inner">
+                                <div class="item active">
+                                    <a href="#"><img src="http://placehold.it/254x150/ff3546/f5f5f5/&text=New+Collection" class="img-responsive" alt="product 1"></a>
+                                    <h4><small>Summer dress floral prints</small></h4>                                        
+                                    <button class="btn btn-primary" type="button">49,99 €</button> <button href="#" class="btn btn-default" type="button"><span class="glyphicon glyphicon-heart"></span> Add to Wishlist</button>       
+                                </div> End Item 
+                                <div class="item">
+                                    <a href="#"><img src="http://placehold.it/254x150/3498db/f5f5f5/&text=New+Collection" class="img-responsive" alt="product 2"></a>
+                                    <h4><small>Gold sandals with shiny touch</small></h4>                                        
+                                    <button class="btn btn-primary" type="button">9,99 €</button> <button href="#" class="btn btn-default" type="button"><span class="glyphicon glyphicon-heart"></span> Add to Wishlist</button>        
+                                </div> End Item 
+                                <div class="item">
+                                    <a href="#"><img src="http://placehold.it/254x150/2ecc71/f5f5f5/&text=New+Collection" class="img-responsive" alt="product 3"></a>
+                                    <h4><small>Denin jacket stamped</small></h4>                                        
+                                    <button class="btn btn-primary" type="button">49,99 €</button> <button href="#" class="btn btn-default" type="button"><span class="glyphicon glyphicon-heart"></span> Add to Wishlist</button>      
+                                </div> End Item                                
+                              </div> End Carousel Inner
+                               Controls 
+                              <a class="left carousel-control" href="#menCollection" role="button" data-slide="prev">
+                                <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+                                <span class="sr-only">Previous</span>
+                              </a>
+                              <a class="right carousel-control" href="#menCollection" role="button" data-slide="next">
+                                <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+                                <span class="sr-only">Next</span>
+                              </a>
+                            </div>/.carousel
+                            <li class="divider"></li>
+                            <li><a href="#">View all Collection <span class="glyphicon glyphicon-chevron-right pull-right"></span></a></li>
+                        -->
     <!-- Navigation -->
-    <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
-        <div class="container">
-        <table>
-            <tr>
-                <td>
-                     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-              <ul class="nav navbar-nav">
-              <li class="dropdown">
-                  <a href="#" class="dropdown-toggle" data-toggle="dropdown"><b>Ball Management</b></a>
-                  <ul class="dropdown-menu">
-                    <li><a href="../ballmanage/large"><b>Large Ball Management System</b></a></li>
-                    <li><a href="../ballmanage/small"><b>Small Ball Management System</b></a></li>
-                  </ul>
-                </li>
-               <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown"><b>Golf Ball Dispensers</b></a>
-                    <ul class="dropdown-menu">
-                    <li><a href=".."><b>Golf Ball Dispensers</b></a></li>
-                    <li><a href="../golfdispenser/flattop"><b>Flat Top</b></a></li>
-                    <li><a href="../golfdispenser/conetop"><b>Cone Top</b></a></li>
-                    <li><a href="../golfdispenser/combi"><b>Combi</b></a></li>
-                  </ul>
-                </li>
-                <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown"><b>Golf Ball Washers</b></a>
-                    <ul class="dropdown-menu">
-                        <li><a href="../golfwasher"><b>RT24K</b></a></li>
-                    </ul>
-                </li>
-                <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown"><b>Range Ball Elevators</b></a>
-                    <ul class="dropdown-menu">
-                        <li><a href="../elevator"><b>Range Ball Elevators</b></a></li>
-                    </ul>
-                </li>
-                <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown"><b>Range Ball Blower/Shooters</b></a>
-                    <ul class="dropdown-menu">
-                        <li><a href="../blowershooter"><b>Range Ball Blower/Shooter</b></a></li>
-                    </ul>
-                </li>
-                <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown"><b>Payment/Management Systems</b></a>
-                    <ul class="dropdown-menu">
-                        <li><a href="../management"><b>Range Ball Elevators</b></a></li>
-                    </ul>
-                </li>
-              </ul>
-            </div>
-                </td>
-            </tr>
-        </table>
-        
-            <!-- Brand and toggle get grouped for better mobile display -->
-           
-            
-        <!-- /.container -->
-    </nav>
+    <?php include("../template/top.php");?>
+
 
     <!-- Page Content -->
     <div class="container">
 
         <div class="row">
             <div class="col-lg-12 text-left">
-                <img src="../media/RangeTechFinal.jpg" align="center" alt="Range Tech" style="width:60%;height:10%;">
                 <br><br><br>
                 <h2><font color="#336633">Ball Management Systems</font></h2>
                 <p class="h4">With our Ball Management System concept, every range operator is able to develop a cost efficient and easy-to-operate driving range. Through automation of the driving range and through sophisticated IT-Solutions a Ball Management System releases both time and resources to improve core business and customer relations.
@@ -111,22 +89,9 @@ Comprehending the specific requirements for designing and operating a golf range
     <script src="../js/jquery.js"></script>
 
     <!-- Bootstrap Core JavaScript -->
-    <script src="../js/bootstrap.min.js"></script>
+    <script src="../js/bootstrap.js"></script>
     <script type="text/javascript">
         
-            $(function(){
-            $(".dropdown").hover(            
-            function() {
-                $('.dropdown-menu', this).stop( true, true ).fadeIn("fast");
-                $(this).toggleClass('open');
-               // $('b', this).toggleClass("caret caret-up");                
-            },
-            function() {
-                $('.dropdown-menu', this).stop( true, true ).fadeOut("fast");
-                $(this).toggleClass('open');
-              //  $('b', this).toggleClass("caret caret-up");                
-            });
-    });
     
     </script>
 </body>

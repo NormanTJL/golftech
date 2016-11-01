@@ -15,13 +15,6 @@
     <link href="../../css/bootstrap.css" rel="stylesheet">
 
 
-    <style>
-    body {
-        padding-top: 70px;
-        /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
-    }
-    </style>
-
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
@@ -34,69 +27,15 @@
 <body>
 
     <!-- Navigation -->
-    <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
-        <div class="container">
-        <table>
-            <tr>
-                <td>
-                     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-               <ul class="nav navbar-nav">
-              <li class="dropdown">
-                  <a href="#" class="dropdown-toggle" data-toggle="dropdown"><b>Ball Management</b></a>
-                  <ul class="dropdown-menu">
-                    <li><a href="../../ballmanage/large"><b>Large Ball Management System</b></a></li>
-                    <li><a href="../../ballmanage/small"><b>Small Ball Management System</b></a></li>
-                  </ul>
-                </li>
-               <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown"><b>Golf Ball Dispensers</b></a>
-                    <ul class="dropdown-menu">
-                    <li><a href=".."><b>Golf Ball Dispensers</b></a></li>
-                    <li><a href="../flattop"><b>Flat Top</b></a></li>
-                    <li><a href="../conetop"><b>Cone Top</b></a></li>
-                    <li><a href="../combi"><b>Combi</b></a></li>
-                  </ul>
-                </li>
-                <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown"><b>Golf Ball Washers</b></a>
-                    <ul class="dropdown-menu">
-                        <li><a href="../../golfwasher"><b>RT24K</b></a></li>
-                    </ul>
-                </li>
-                <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown"><b>Range Ball Elevators</b></a>
-                    <ul class="dropdown-menu">
-                        <li><a href="../../elevator"><b>Range Ball Elevators</b></a></li>
-                    </ul>
-                </li>
-                <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown"><b>Range Ball Blower/Shooters</b></a>
-                    <ul class="dropdown-menu">
-                        <li><a href="../../blowershooter"><b>Range Ball Blower/Shooter</b></a></li>
-                    </ul>
-                </li>
-                <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown"><b>Payment/Management Systems</b></a>
-                    <ul class="dropdown-menu">
-                        <li><a href="../../management"><b>Range Ball Elevators</b></a></li>
-                    </ul>
-                </li>
-              </ul>
-            </div>
-                </td>
-            </tr>
-        </table>
-        
-            <!-- Brand and toggle get grouped for better mobile display -->
-           
-            
-        <!-- /.container -->
-    </nav>
+    <?php include("../../template/top-kids.php");?>
 
     <!-- Page Content -->
     <div class="container">
 
         <div class="row">
             <div class="col-lg-12 text-left">
-            <img src="../../media/RangeTechFinal.jpg" align="center" alt="Range Tech" style="width:60%;height:10%;">
-            <p align="center"><a href="#"><img src="../../media/combi.jpg" alt="Flat Top" style="width:35%;height:30%;"></a></p><h3><p align="center">Combi</p></h3>  
+            <p align="center"><a href="#"><img src="../../media/combi.jpg" alt="Combi" style="width:35%;height:30%;"></a></p><h3><p align="center">Combi</p></h3>  
             <br><br><br>
-                <h2><font color="#336633">Combi</font></h2>
             
             </div>
         </div>

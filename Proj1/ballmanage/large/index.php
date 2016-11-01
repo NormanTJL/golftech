@@ -17,7 +17,6 @@
 
     <style>
     body {
-        padding-top: 70px;
         /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
     }
     </style>
@@ -34,72 +33,16 @@
 <body>
 
     <!-- Navigation -->
-    <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
-        <div class="container">
-        <table>
-            <tr>
-                <td>
-                     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-              <ul class="nav navbar-nav">
-              <li class="dropdown">
-                  <a href="#" class="dropdown-toggle" data-toggle="dropdown"><b>Ball Management</b></a>
-                  <ul class="dropdown-menu">
-                     <li><a href="../../ballmanage/large"><b>Large Ball Management System</b></a></li>
-                    <li><a href="../../ballmanage/small"><b>Small Ball Management System</b></a></li>
-                  </ul>
-                </li>
-               <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown"><b>Golf Ball Dispensers</b></a>
-                    <ul class="dropdown-menu">
-                    <li><a href="../../golfdispenser/"><b>Golf Ball Dispensers</b></a></li>
-                    <li><a href="../../golfdispenser/flattop"><b>Flat Top</b></a></li>
-                    <li><a href="../../golfdispenser/conetop"><b>Cone Top</b></a></li>
-                    <li><a href="../../golfdispenser/combi"><b>Combi</b></a></li>
-                  </ul>
-                </li>
-               <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown"><b>Golf Ball Washers</b></a>
-                    <ul class="dropdown-menu">
-                        <li><a href="../../golfwasher"><b>RT24K</b></a></li>
-                    </ul>
-                </li>
-                <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown"><b>Range Ball Elevators</b></a>
-                    <ul class="dropdown-menu">
-                        <li><a href="../../elevator"><b>Range Ball Elevators</b></a></li>
-                    </ul>
-                </li>
-                <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown"><b>Range Ball Blower/Shooters</b></a>
-                    <ul class="dropdown-menu">
-                        <li><a href="../../blowershooter"><b>Range Ball Blower/Shooter</b></a></li>
-                    </ul>
-                </li>
-                <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown"><b>Payment/Management Systems</b></a>
-                    <ul class="dropdown-menu">
-                        <li><a href="../../management"><b>Range Ball Elevators</b></a></li>
-                    </ul>
-                </li>
-              </ul>
-            </div>
-                </td>
-            </tr>
-        </table>
-        
-            <!-- Brand and toggle get grouped for better mobile display -->
-           
-            
-        <!-- /.container -->
-    </nav>
+   <?php include("../../template/top-kids.php");?>
 
     <!-- Page Content -->
     <div class="container">
 
         <div class="row">
             <div class="col-lg-12 text-left">
-                <img src="../../media/RangeTechFinal.jpg" align="center" alt="Range Tech" style="width:60%;height:10%;">
-                <br><br><br>
-                <table align="center">
-                <tr width="100%">
-                <td align="center"><img src="../../media/lbms.jpg" align="center" alt="Large Ball Manangement System" style="width:100%;height:100%;"></td>
-                </tr>
-                </table>
+                <br>
+                <table align="center"><tr><td colspan="2" width="60%"><img src="../../media/lbms.jpg" align="left" alt="Large Ball Manangement System" style="width:150%;height:110%;"></td><td colspan="2"></td></tr></table>
+                <br><br>
              <h2><font color="#336633">Large Ball Management Systems</font></h2>
                 <p class="h4">To ensure the highest performance and reliability of our ball management systems, we work according to our project model, which runs through our entire working process from quotation, design, production to the completed installation. Each project step has to pass through a grid criteria and be approved prior to proceeding to the next step in the project. Using this method we ensure that our customers are involved in each step and receives a system that fulfills their requirements.</p>
                 <p class="h4">Our relationship with the customer do not end at the point of installation, though. A one year warranty check up is included with all our systems together with a one year contract to our support line.</p>
@@ -114,7 +57,7 @@
                <tr>
                <td width="40%">
                 <figure align="center">
-                  <img src="../../media/largeball2.jpg" align="center" alt="Large Ball Manangement System" style="width:30%;height:30%;">
+                  <img src="../../media/largeball2.jpg" align="center" alt="Large Ball Manangement System" style="width:70%;height:30%;">
                   <figcaption align="center"> <p class="h4"><b>Fig. 2</b><br>A Typical Layout for Conveyor Belt Transportation</p></figcaption>
                 </figure>
                 </tr>
