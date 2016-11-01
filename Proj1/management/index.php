@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Bare - Start Bootstrap Template</title>
+    <title>Range Tech</title>
 
     <link href="../css/template.css" rel="stylesheet">
     <link href="../css/bootstrap.css" rel="stylesheet">
@@ -31,12 +31,11 @@
        <?php include("../template/top.php");?>
 
     <!-- Page Content -->
-    <div class="container">
+    <div class="container" style="opacity: 0.93;">
 
         <div class="row">
             <div class="col-lg-12 text-left">
-                <img src="../media/RangeTechFinal.jpg" align="center" alt="Range Tech" style="width:60%;height:10%;">   
-                <br><br><br>
+                <br><br>
                 <h2><font color="#336633">Range Tech Payment Management Systems</font></h2>
                 <p class="h3">For Range Tech Ball Dispenser</p>
                 <img src="../media/page1.jpg" align="center" alt="Page 1" style="width:100%;height:10%;">
@@ -44,7 +43,69 @@
                 <img src="../media/page2.jpg" align="center" alt="Page 2" style="width:100%;height:10%;">
                 <br><br><br>
                 <img src="../media/page3.jpg" align="center" alt="Page 3" style="width:100%;height:10%;">
-
+                <br><br><br>
+                <table align="center"><tr><td><img src="../media/token1.jpg" align="center" alt="Token 1" style="width:100%;height:100%;"></td></tr></table>
+                <h1><font color="#000">Tokens</font></h1>    
+                <p>Range Tech has a large selection of tokens for use in mechanical and electronic token acceptors. The tokens are nickelplated but also available in brass. Tokens are supplied in box of 500 tokens. All tokens are manufactured by Range Tech. </p>
+                <table align="center">
+                <tr>
+                    <td><b><p>RS-A</p></b></td>
+                    <td><b><p>RS-B</p></b></td>
+                </tr>
+                <tr>
+                    <td><img src="../media/tokensample1.jpg" align="center" alt="Token 2" style="width:100%;height:100%;"></td>
+                    <td><img src="../media/tokensample2.jpg" align="center" alt="Token 2" style="width:100%;height:100%;"></td>
+                </tr>
+                <tr>
+                    <td><b><p>RS-C</p></b></td>
+                    <td><b><p>RS-D</p></b></td>
+                </tr>
+                <tr>
+                    <td><img src="../media/tokensample3.jpg" align="center" alt="Token 2" style="width:100%;height:100%;"></td>
+                    <td><img src="../media/tokensample4.jpg" align="center" alt="Token 2" style="width:100%;height:100%;"></td>
+                </tr>
+                <tr>
+                    <td><b><p>RS-E</p></b></td>
+                    <td><b><p>RS-F</p></b></td>
+                </tr>
+                <tr>
+                    <td><img src="../media/tokensample5.jpg" align="center" alt="Token 2" style="width:100%;height:100%;"></td>
+                    <td><img src="../media/tokensample6.jpg" align="center" alt="Token 2" style="width:100%;height:100%;"></td>
+                </tr>
+                <tr>
+                    <td><b><p>RS-G</p></b></td>
+                    <td><b><p>RS-H</p></b></td>
+                </tr>
+                <tr>
+                    <td><img src="../media/tokensample7.jpg" align="center" alt="Token 2" style="width:100%;height:100%;"></td>
+                    <td><img src="../media/tokensample8.jpg" align="center" alt="Token 2" style="width:100%;height:100%;"></td>
+                </tr>
+                <tr>
+                    <td><b><p>RS-I</p></b></td>
+                    <td><b><p>RS-II</p></b></td>
+                </tr>
+                <tr>
+                    <td><img src="../media/tokensample9.jpg" align="center" alt="Token 2" style="width:100%;height:100%;"></td>
+                    <td><img src="../media/tokensample10.jpg" align="center" alt="Token 2" style="width:100%;height:100%;"></td>
+                </tr>
+                <tr>
+                    <td><b><p>RS-III</p></b></td>
+                    <td><b><p>RS-IV</p></b></td>
+                </tr>
+                <tr>
+                    <td><img src="../media/tokensample11.jpg" align="center" alt="Token 2" style="width:100%;height:100%;"></td>
+                    <td><img src="../media/tokensample12.jpg" align="center" alt="Token 2" style="width:100%;height:100%;"></td>
+                </tr>
+                <tr>
+                    <td><b><p>RS-V</p></b></td>
+                    <td><b><p>RS-VI</p></b></td>
+                </tr>
+                <tr>
+                    <td><img src="../media/tokensample13.jpg" align="center" alt="Token 2" style="width:100%;height:100%;"></td>
+                    <td><img src="../media/tokensample14.jpg" align="center" alt="Token 2" style="width:100%;height:100%;"></td>
+                </tr>
+                </table>
+                <br><br>
                <!-- <br><p class="h4"><b>S</b>ELECT CONTROL is an electronic control system that makes getting golf balls easier and increases revenue at the same time. Based on an electronic package mounted in the Ball Dispenser, Select Control allows you to sell several different amounts of balls depending on the payment method or the time of the day. <br> Select Control can function as a stand-alone unit or can be networked to a central computer. When on-line, Select allows for: </p>
                 <ul><li><p class="h4">On-line Payment System - Select uses a reliable read-only card system where all the vital information is stored in a personal account on the computer. Customer flexibility increases and cash handling in Ball Dispenser decreases</p></li>
                     <li><p class="h4">Statistics: All sales are accounted for. Statistics can be broken down from hour of the day to month of the year and presented in easy to use tables and reports</p></li></ul>
@@ -69,29 +130,18 @@
 
     </div>
     <!-- /.container -->
-
+    <div class="divider">
+     <?php include("../template/footer.php");?>
+     </div>
     <!-- jQuery Version 1.11.1 -->
     <script src="../js/jquery.js"></script>
 
     <!-- Bootstrap Core JavaScript -->
-    <script src="../js/bootstrap.min.js"></script>
-    <script type="text/javascript">
-        
-            $(function(){
-            $(".dropdown").hover(            
-            function() {
-                $('.dropdown-menu', this).stop( true, true ).fadeIn("fast");
-                $(this).toggleClass('open');
-               // $('b', this).toggleClass("caret caret-up");                
-            },
-            function() {
-                $('.dropdown-menu', this).stop( true, true ).fadeOut("fast");
-                $(this).toggleClass('open');
-              //  $('b', this).toggleClass("caret caret-up");                
-            });
-    });
-    
-    </script>
+    <script src="../js/bootstrap.js"></script>
+    <script src="http://uguru-realestate-us-jun202013.businesscatalyst.com/3d-slider/sliderengine/jquery.js"></script>
+    <script src="http://uguru-realestate-us-jun202013.businesscatalyst.com/3d-slider/sliderengine/amazingslider.js"></script>
+    <script src="http://uguru-realestate-us-jun202013.businesscatalyst.com/3d-slider/sliderengine/initslider-1.js"></script>
+
 </body>
 
 </html>

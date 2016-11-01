@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Bare - Start Bootstrap Template</title>
+    <title>Range Tech</title>
 
     <link href="../../css/template.css" rel="stylesheet">
     <link href="../../css/bootstrap.css" rel="stylesheet">
@@ -29,7 +29,7 @@
     <?php include("../../template/top-kids.php");?>
 
     <!-- Page Content -->
-    <div class="container">
+    <div class="container" style="opacity: 0.93;">
 
         <div class="row">
             <div class="col-lg-12 text-left">
@@ -86,29 +86,18 @@ Range owners everywhere know the goal is to sell Large Buckets. The Range Servan
 
     </div>
     <!-- /.container -->
-
+    <div class="divider">
+     <?php include("../../template/footer-kids.php");?>
+     </div>
     <!-- jQuery Version 1.11.1 -->
     <script src="../../js/jquery.js"></script>
 
     <!-- Bootstrap Core JavaScript -->
-    <script src="../../js/bootstrap.min.js"></script>
-    <script type="text/javascript">
-        
-            $(function(){
-            $(".dropdown").hover(            
-            function() {
-                $('.dropdown-menu', this).stop( true, true ).fadeIn("fast");
-                $(this).toggleClass('open');
-             //   $('b', this).toggleClass("caret caret-up");                
-            },
-            function() {
-                $('.dropdown-menu', this).stop( true, true ).fadeOut("fast");
-                $(this).toggleClass('open');
-              //  $('b', this).toggleClass("caret caret-up");                
-            });
-    });
-    
-    </script>
+    <script src="../../js/bootstrap.js"></script>
+    <script src="http://uguru-realestate-us-jun202013.businesscatalyst.com/3d-slider/sliderengine/jquery.js"></script>
+    <script src="http://uguru-realestate-us-jun202013.businesscatalyst.com/3d-slider/sliderengine/amazingslider.js"></script>
+    <script src="http://uguru-realestate-us-jun202013.businesscatalyst.com/3d-slider/sliderengine/initslider-1.js"></script>
+
 </body>
 
 </html>
