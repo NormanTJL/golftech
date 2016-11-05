@@ -3533,7 +3533,8 @@ tbody.collapse.in {
 .dropup,
 .dropdown {
   position: relative;
-}
+
+ }
 .dropdown-toggle:focus {
   outline: 0;
 }
@@ -3547,7 +3548,7 @@ tbody.collapse.in {
   min-width: 160px;
   padding: 5px 0;
   margin: 2px 0 0;
-  font-size: 14px;
+  font-size: 13px;
   text-align: left;
   list-style: none;
   background-color: #fff;
@@ -4402,6 +4403,7 @@ body {
   padding-top: 10px;
   padding-bottom: 10px;
   line-height: 20px;
+  font-size: 11px;
 }
 @media (max-width: 767px) {
   .navbar-nav .open .dropdown-menu {

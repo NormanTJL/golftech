@@ -34,8 +34,21 @@
 
         <div class="row">
             <div class="col-lg-12 text-left">
-            <p align="center"><a href="#"><img src="../../media/conetop.jpg" alt="Cone Top" style="width:35%;height:30%;"></a></p><h3><p align="center">Cone Top</p></h3>  
-            <br><br><br>   
+            <table align="center">
+            <tr>
+            <td>
+            <p align="left"><a href="#"><img src="../../media/conetop.jpg" alt="Cone Top" style="width:100%;height:30%;"></a></p>
+            </td>
+            <td>
+            <p align="right"><a href="#"><img src="../../media/combi.jpg" alt="Combi" style="width:100%;height:30%;"></a></p>    
+            </td>
+            </tr>
+            <tr>
+            <td><h3><p align="center">Cone Top</p></h3></td>
+            <td><h3><p align="center">Combi</p></h3></td>            
+            </tr>
+            <br><br><br>  
+            </table> 
             </div>
         </div>
         <!-- /.row -->

@@ -38,7 +38,7 @@
             <br><br>
                 <table align="center"><tr><td colspan="2" width="60%"><img src="../../media/lbms.jpg" align="left" alt="Large Ball Manangement System" style="width:150%;height:100%;"></td><td colspan="2"></td></tr></table>
                 <br><br>
-             <h2><font color="#336633">Large Ball Management Systems</font></h2>
+             <h2><font color="#336633">Full-scale Ball Management Systems</font></h2>
                 <p class="h4">To ensure the highest performance and reliability of our ball management systems, we work according to our project model, which runs through our entire working process from quotation, design, production to the completed installation. Each project step has to pass through a grid criteria and be approved prior to proceeding to the next step in the project. Using this method we ensure that our customers are involved in each step and receives a system that fulfills their requirements.</p>
                 <p class="h4">Our relationship with the customer do not end at the point of installation, though. A one year warranty check up is included with all our systems together with a one year contract to our support line.</p>
                 <br><br>

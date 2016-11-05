@@ -44,7 +44,7 @@
                </table>
              <h2><font color="#336633">Small Ball Management Systems</font></h2>
                 <p class="h4">To ensure the highest performance and reliability of our ball management systems, we work according to our project model, which runs through our entire working process from quotation, design, production to the completed installation. Each project step has to pass through a grid criteria and be approved prior to proceeding to the next step in the project. Using this method we ensure that our customers are involved in each step and receives a system that fulfills their requirements.</p>
-                <p class="h4">Our relationship with the customer do not end at the point of installation, though. A one year warranty check up is included with all our systems together with a one year contract to our suppoart line.</p>
+                <p class="h4">Our relationship with the customer do not end at the point of installation, though. A one year warranty check up is included with all our systems together with a one year contract to our support line.</p>
                  <img src="../../media/smallbms2.jpg" align="center" alt="Small Ball Manangement System" style="width:100%;height:30%;">
                  <br><br><br><br>
                  <img src="../../media/smallballmanagement1.jpg" align="center" alt="Small Ball Manangement System" style="width:33%;height:30%;">
