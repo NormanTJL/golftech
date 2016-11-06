@@ -39,20 +39,20 @@
                 <h2><font color="#336633">RT Ball Dispenser</font></h2>
                 <p class="h4">We count each and every ball as they leave the machine so we can dispense any ball count you need. Since our Golf Ball Dispensers have Smart Circuitry your Small, Medium, and Large Buckets can be absolutely any size. The possibilities are infinite.
 <br><br>
-A Souped-Up version of a classic, the RT ball dispenser is the most flexible and reliable ball dispenser available. Flat Top Ball Dispenser provides today’s range owner with the best opportunity to sell more golf balls. Infinitely flexible, you can sell any size bucket. You can tailor your smalls, mediums, and larges to increase revenue and keep your customers coming back for more.
+A Souped-Up version of a classic, the RT ball dispenser is the most flexible and reliable ball dispenser available. The RT Ball Dispenser provides today’s range owner with the best opportunity to sell more golf balls. Infinitely flexible, you can sell any size bucket. You can tailor your smalls, mediums, and larges to increase revenue and keep your customers coming back for more.
 <br><br>
 Because they are so quiet, they can be placed right on the tee-line. 
 <br><br>
 Range owners everywhere know the goal is to sell Large Buckets. The RT Ball Dispenser is the first Golf Ball Dispenser that makes this easier. Since we can dispense any quantity of balls, your Smalls, Mediums and Larges can be any size. This allows the discerning Range Owner to Live Large</p>
                             <ul>
                                 <li>
-                                    <p class="h5">Give more "bonus balls" so you can charge more for Large Buckets.</p>
+                                    <p class="h4">Give more "bonus balls" so you can charge more for Large Buckets.</p>
                                 </li>
                                 <li>
-                                    <p class="h5">Make your "Large" irresistible by giving more balls without giving a bigger discount</p>
+                                    <p class="h4">Make your "Large" irresistible by giving more balls without giving a bigger discount</p>
                                 </li>
                                 <li>
-                                    <p class="h5">Set the machine to make all of your buckets look full but make your large look the best</p>
+                                    <p class="h4">Set the machine to make all of your buckets look full but make your large look the best</p>
                                 </li>
                             </ul>
                          <p class="h3"><b>Highlights</b></p>
@@ -67,17 +67,17 @@ Range owners everywhere know the goal is to sell Large Buckets. The RT Ball Disp
                                 <li>Tokens and Range cards</li>
                             </ul>          
                             <p class="h3"><b>Product Specification</b></p>
-                                <ul class="h4">
-                                    <li><p class="h5">Capacity 8 000 balls <br>Measurement 1012x760x1330mm</p></li>
-                                    <li><p class="h5">Capacity 16 000 balls<br>Measurement 1012x1520x1330mm</p></li>
+                                <ul class="h3">
+                                    <li><p class="h4">Capacity 8 000 balls <br>Measurement 1012x760x1330mm</p></li>
+                                    <li><p class="h4">Capacity 16 000 balls<br>Measurement 1012x1520x1330mm</p></li>
                                 </ul>              
                          <p class="h3"><b>Other</b></p>
                          <p class="h4"><b>The Ultimate Advantage</b></p>
-                         <p class="h5">Range owners everywhere know the goal is to sell Large Buckets. The RT Ball Dispenser is the first Golf Ball Dispenser that makes this easier. Since we can dispense any quantity of balls, your Smalls, Mediums and Larges can be any size. This allows the discerning Range Owner to Live Large</p>
+                         <p class="h4">Range owners everywhere know the goal is to sell Large Buckets. The RT Ball Dispenser is the first Golf Ball Dispenser that makes this easier. Since we can dispense any quantity of balls, your Smalls, Mediums and Larges can be any size. This allows the discerning Range Owner to Live Large</p>
                          <ul class="h4">
-                                    <li><p class="h5">Give more "bonus balls" so you can charge more for Large Buckets.</p></li>
-                                    <li><p class="h5">Make your "Large" irresistible by giving more balls without giving a bigger discount</p></li>
-                                    <li><p class="h5">Set the machine to make all of your buckets look full but make your large look the best</p></li>
+                                    <li><p class="h4">Give more "bonus balls" so you can charge more for Large Buckets.</p></li>
+                                    <li><p class="h4">Make your "Large" irresistible by giving more balls without giving a bigger discount</p></li>
+                                    <li><p class="h4">Set the machine to make all of your buckets look full but make your large look the best</p></li>
                         </ul>     
 
             </div>

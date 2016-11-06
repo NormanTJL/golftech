@@ -32,14 +32,15 @@
 
         <div class="row">
             <div class="col-lg-12 text-left">
-            <br><br>
+            <br><br><br>
             <table align="center">
             <tr>
             <td>
-            <img src="../media/rt24k.jpg" alt="RT24K" align="center" style="width:100%;height:100%;">
+            <img src="../media/rt24k.jpg" alt="RT24K" align="center" style="width:130%;height:130%;">
             </td>
             </tr>
             </table>
+            <br><br>
                 <h2><font color="#336633"><b>Golf Ball Washer RT24K</b></font></h2>
                 <p class="h4">Range Tech 24K is capable of washing several balls in bulk. We cater for all types of clients including professional Golfers, Golf course owners and people who play Golf as a hobby.<br>Whether you require washing a handful of range balls or need a Golf Ball Washer that can clean thousands of balls in bulk, we have you covered. Range Tech understands the need of having a convenient mechanism for keeping Range Balls clean, without using harsh chemicals.</p> 
                 <p class="h3"><b>No Harsh Solvent or Cleaners Required</b></p>
@@ -63,9 +64,9 @@
                 </ul>
                 <p class="h3"><b>Product Specification</b></p>
                 <ul class="h4">
-                    <li><p class="h4">Direct Drive Design</p><p class="h5">Our power Direct Drive motors leave nothing to chance and ensure years of jam free operation. There are no belts that can slip or wear</p></li>
-                    <li><p class="h4">100% Brush Efficiency</p><p class="h5">Our unique brush system allows balls to rotate 360 as they are scrubbed and travel across the entire brush. This means the entire golf ball is scrubbed and the whole brush is used. you will change brushes less frequently in a RT24K</p></li>
-                    <li><p class="h4">Extend the Life of your Golf Ball Inventory</p><p class="h5">RT24K washers are Ball Friendly because we clean golf balls without the unnecessary wear of detergents or the added hassle of changing the water. RT24K have been proven to minimize golf ball wear and extend the life of your golf ball inventory</p></li>
+                    <li><p class="h3">Direct Drive Design</p><p class="h4">Our power Direct Drive motors leave nothing to chance and ensure years of jam free operation. There are no belts that can slip or wear</p></li>
+                    <li><p class="h3">100% Brush Efficiency</p><p class="h4">Our unique brush system allows balls to rotate 360 as they are scrubbed and travel across the entire brush. This means the entire golf ball is scrubbed and the whole brush is used. you will change brushes less frequently in a RT24K</p></li>
+                    <li><p class="h3">Extend the Life of your Golf Ball Inventory</p><p class="h4">RT24K washers are Ball Friendly because we clean golf balls without the unnecessary wear of detergents or the added hassle of changing the water. RT24K have been proven to minimize golf ball wear and extend the life of your golf ball inventory</p></li>
                 </ul>
             </div>
         </div>

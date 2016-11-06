@@ -17,13 +17,13 @@
             <li class="dropdown">
                 <a href="#" class="dropdown-toggle" data-toggle="dropdown"><b>RT Golf Ball Management System</b> <span class="caret"></span></a>              
                 <ul class="dropdown-menu mega-dropdown-menu">
-                    <li class="col-sm-15">
+                    <li class="col-sm-17">
                         <ul>
                             <li><a href="../../ballmanage/large/"><b>RT Full Scale Ball Management System</b></a></li>
                         </ul>
                     </li>
                     <br>
-                    <li class="col-sm-15">
+                    <li class="col-sm-17">
                         <ul>
                             <li><a href="../../ballmanage/small/"><b>RT Small Ball Management System</b></a></li>                          
                         </ul>
@@ -79,7 +79,7 @@
             <li class="dropdown">
                 <a href="#" class="dropdown-toggle" data-toggle="dropdown"><b>RT Payment Management System</b><span class="caret"></span></a>                
                 <ul class="dropdown-menu mega-dropdown-menu">
-                    <li class="col-sm-15">
+                    <li class="col-sm-17">
                         <ul>
                             <li><a href="../../management/"><b>RT Payment Management System</b></a></li>                         
                         </ul>

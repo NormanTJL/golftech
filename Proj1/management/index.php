@@ -49,32 +49,32 @@
                 <p>Range Tech has a large selection of tokens for use in mechanical and electronic token acceptors. The tokens are nickelplated but also available in brass. Tokens are supplied in box of 500 tokens. All tokens are manufactured by Range Tech. </p>
                 <table align="center">
                 <tr>
-                    <td><b><p>RS-A</p></b></td>
-                    <td><b><p>RS-B</p></b></td>
+                    <td><b><p>RT-A</p></b></td>
+                    <td><b><p>RT-B</p></b></td>
                 </tr>
                 <tr>
                     <td><img src="../media/tokensample1.jpg" align="center" alt="Token 2" style="width:100%;height:100%;"></td>
                     <td><img src="../media/tokensample2.jpg" align="center" alt="Token 2" style="width:100%;height:100%;"></td>
                 </tr>
                 <tr>
-                    <td><b><p>RS-C</p></b></td>
-                    <td><b><p>RS-D</p></b></td>
+                    <td><b><p>RT-C</p></b></td>
+                    <td><b><p>RT-D</p></b></td>
                 </tr>
                 <tr>
                     <td><img src="../media/tokensample3.jpg" align="center" alt="Token 2" style="width:100%;height:100%;"></td>
                     <td><img src="../media/tokensample4.jpg" align="center" alt="Token 2" style="width:100%;height:100%;"></td>
                 </tr>
                 <tr>
-                    <td><b><p>RS-E</p></b></td>
-                    <td><b><p>RS-F</p></b></td>
+                    <td><b><p>RT-E</p></b></td>
+                    <td><b><p>RT-F</p></b></td>
                 </tr>
                 <tr>
                     <td><img src="../media/tokensample5.jpg" align="center" alt="Token 2" style="width:100%;height:100%;"></td>
                     <td><img src="../media/tokensample6.jpg" align="center" alt="Token 2" style="width:100%;height:100%;"></td>
                 </tr>
                 <tr>
-                    <td><b><p>RS-G</p></b></td>
-                    <td><b><p>RS-H</p></b></td>
+                    <td><b><p>RT-G</p></b></td>
+                    <td><b><p>RT-H</p></b></td>
                 </tr>
                 <tr>
                     <td><img src="../media/tokensample7.jpg" align="center" alt="Token 2" style="width:100%;height:100%;"></td>
@@ -89,16 +89,16 @@
                     <td><img src="../media/tokensample10.jpg" align="center" alt="Token 2" style="width:100%;height:100%;"></td>
                 </tr>
                 <tr>
-                    <td><b><p>RS-III</p></b></td>
-                    <td><b><p>RS-IV</p></b></td>
+                    <td><b><p>RT-III</p></b></td>
+                    <td><b><p>RT-IV</p></b></td>
                 </tr>
                 <tr>
                     <td><img src="../media/tokensample11.jpg" align="center" alt="Token 2" style="width:100%;height:100%;"></td>
                     <td><img src="../media/tokensample12.jpg" align="center" alt="Token 2" style="width:100%;height:100%;"></td>
                 </tr>
                 <tr>
-                    <td><b><p>RS-V</p></b></td>
-                    <td><b><p>RS-VI</p></b></td>
+                    <td><b><p>RT-V</p></b></td>
+                    <td><b><p>RT-VI</p></b></td>
                 </tr>
                 <tr>
                     <td><img src="../media/tokensample13.jpg" align="center" alt="Token 2" style="width:100%;height:100%;"></td>

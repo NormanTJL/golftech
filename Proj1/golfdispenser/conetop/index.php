@@ -44,8 +44,7 @@
             </td>
             </tr>
             <tr>
-            <td><h3><p align="center">Cone Top</p></h3></td>
-            <td><h3><p align="center">Combi</p></h3></td>            
+            <td colspan="2"><h3><p align="center">Cone Top</p></h3></td>
             </tr>
             <br><br><br>  
             </table> 
